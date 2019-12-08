@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "308513896033",
+    "firebase_url": "https://troca-livro-app.firebaseio.com",
+    "project_id": "troca-livro-app",
+    "storage_bucket": "troca-livro-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:308513896033:android:87425fca41009ffb",
+        "android_client_info": {
+          "package_name": "com.leandrosales.trocalivro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "308513896033-dk5k4ff8lqudof9rtvfg3788lc59jjci.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.leandrosales.trocalivro",
+            "certificate_hash": "1d56ad7e851495e57c2f5374f7b3f0529cb3f80d"
+          }
+        },
+        {
+          "client_id": "308513896033-p6g3q48gsasqseo6g300bpu213do6972.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkgTXFrS-yWtO1Fbfo8oNFwPFQDmBeL1c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "308513896033-p6g3q48gsasqseo6g300bpu213do6972.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
